@@ -20,7 +20,7 @@ Innentől felteszem, hogy ez a mappád létezik: `Dokumentumok/dat-main` és ben
 - Start menüben indítsd el az `Anaconda navigator` programot, amit feltelepítettünk (azt hiszem így hívják).
 - Keresd ki az Anaconda Navigator-ban a Jupyter lab alkalmazást. Lesz egy sima Jupyter is, de neked nem az kell. Mellékelek róla egy képet:
 
-![anaconda_navigator](https://github.com/csxeba/dat/blob/main/_assets/anaconda_navigator.png?raw=true)
+![anaconda_navigator](https://github.com/csxeba/dat/blob/main/_assets/anaconda_navigator_.png?raw=true)
 
 Alább csatolok egy screenshotot a Jupyter felületéről. Bejelöltem rajta a fájlkezelőt.
 
