@@ -7,7 +7,7 @@ A tutorial folyamatosan készül és frissíteni fogom, ahogy időm lesz tovább
 - Felmész ide: https://github.com/csxeba/dat
 - 2 kattintás az alábbi ábra szerint:
 
-![letoltes](https://github.com/csxeba/dat/blob/main/letoltes.png?raw=true)
+![letoltes](https://github.com/csxeba/dat/blob/main/_assets/letoltes.png?raw=true)
 
 - Ez letölt egy zip fájlt, amit valahova ki kell tömöríteni.
 - A githubon a mappa neve `dat` (data analysis tutorial) és a verzió neve `main`. A letöltött zip fájl és a benne lévő mappa neve `dat-main` lesz.
@@ -28,7 +28,7 @@ Innentől felteszem, hogy ez a mappád létezik: `Dokumentumok/dat-main`. Leíro
 
 Alább csatolok egy screenshotot a Jupyter felületéről. Bejelöltem rajta a fájlkezelőt.
 
-![jupy_screenshot](https://github.com/csxeba/dat/blob/main/Jupyter_screenshot.png?raw=true)
+![jupy_screenshot](https://github.com/csxeba/dat/blob/main/_assets/Jupyter_screenshot.png?raw=true)
 
 - Nyisd meg az `Adatozas_tutorial.ipynb` nevű notebook-ot Jupyterben.
 - A screenshoton bejelöltem a tartalomjegyzék ikont is, azzal könnyen tudsz navigálni a notebook fejezetein belül.
